@@ -102,3 +102,11 @@ Part of the SuperInstance ternary crate family. `ternary-visualization` is the r
 ## License
 
 MIT
+
+## See Also
+- **ternary-visualizer** — related
+- **ternary-color** — related
+- **ternary-wave** — related
+- **ternary-life** — related
+- **ternary-fire** — related
+
